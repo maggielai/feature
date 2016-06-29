@@ -5,4 +5,5 @@ echo "ｐｍｔ１";
 }
 
 public function posttwo(){
+echo "pmt2";
 }
